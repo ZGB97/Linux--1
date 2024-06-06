@@ -1,4 +1,4 @@
-<h1> 🧱Configure a Firewall and Monitor System Performance (Linux) </h1>
+<h1> 🧱Configured a Firewall and Monitor System Performance (Linux) </h1>
 
 <h2>Description</h2>
 This project involves configuring and securing an Ubuntu Server. The tasks included stopping unneeded services, closing unneeded ports, configuring the Uncomplicated Firewall (UFW) to allow only web access, displaying running processes, installing and using iptraf to gather network statistics, and examining system logs for warnings using journalctl.
